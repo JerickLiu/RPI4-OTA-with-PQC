@@ -1,6 +1,7 @@
 /* lms-sign.c */
 
 /*
+ * COMP 4900 E - RTOS PQC Project
  * This tool reads a firmware binary file, signs it and
  * a given private key, and appends the signature
  * to the firmware image for demo purposes.

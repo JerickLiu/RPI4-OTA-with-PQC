@@ -1,4 +1,4 @@
-/* u-boot/tools/lms-sign.c */
+/* u-boot/lib/lms/lms-sign.c */
 /* SPDX-License-Identifier: GPL-2.0+ */
 
 #include <stdio.h>

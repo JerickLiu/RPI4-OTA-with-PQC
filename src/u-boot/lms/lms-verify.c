@@ -1,3 +1,4 @@
+/* u-boot/lib/lms/lms-verify.c */
 // SPDX-License-Identifier: GPL-2.0+
 #include <image.h>
 #include "../lib/lms/lms.h"
