@@ -22,7 +22,7 @@ This project demonstrates how to perform secure **Over-The-Air (OTA)** updates o
 ---
 
 ## Repository Structure
-
+```
 .
 └── src
     ├── generate_lms_keys.c
@@ -40,7 +40,7 @@ This project demonstrates how to perform secure **Over-The-Air (OTA)** updates o
         │   ├── lms.c
         │   └── lms.h
         └── secureboot.c
-
+```
 ### `src/`
 Holds source code and scripts.
 
