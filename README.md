@@ -68,6 +68,13 @@ Holds source code and scripts.
     - **`secureboot.c`**: Register the secureboot command within U-Boot
 
 ---
+## U-Boot Fork
+
+This repository only contains the custom modifications for PQC support (the `lms` folder and related files). The complete U-Boot source—with all the modifications for secure OTA booting is maintained in our custom fork. You can view the full U-Boot fork here:
+
+[Custom U-Boot Fork Repository](https://github.com/JerickLiu/u-boot)
+
+---
 
 ## Quickstart Guide
 
