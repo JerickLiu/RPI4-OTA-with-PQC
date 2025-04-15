@@ -4,7 +4,7 @@ This project demonstrates how to perform secure **Over-The-Air (OTA)** updates o
 
 > **Video Tutorial:**  
 > [Here's the link to the video tutorial](https://www.youtube.com/watch?v=S0OHd5dIjJk)
-> UPDATE: 04/14. Due to a YouTube account issue, the video is accessible [Here's the link to the video tutorial](https://drive.google.com/file/d/1XdluDU9l_gTquYHmfJoTx5DX90WNCMMU/view?usp=sharing) for the time being.
+> UPDATE: 04/14. Due to a YouTube account issue, the video is accessible [here](https://drive.google.com/file/d/1XdluDU9l_gTquYHmfJoTx5DX90WNCMMU/view?usp=sharing) for the time being.
 
 ---
 
