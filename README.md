@@ -3,8 +3,9 @@
 This project demonstrates how to perform secure **Over-The-Air (OTA)** updates on a **Raspberry Pi 4** running **QNX**, using **Post-Quantum Cryptography (PQC)** for firmware signing and verification. It integrates a custom fork of U-Boot that verifies firmware images (e.g., `ifs-rpi4.bin`) using a PQC signing algorithm (in our demo, MAYO‑1) before booting QNX.
 
 > **Video Tutorial:**  
-> [Here's the link to the video tutorial](https://www.youtube.com/watch?v=S0OHd5dIjJk)
-> UPDATE: 04/14. Due to a YouTube account issue, the video is accessible [here](https://drive.google.com/file/d/1XdluDU9l_gTquYHmfJoTx5DX90WNCMMU/view?usp=sharing) for the time being.
+> [Here's the link to the video tutorial](https://www.youtube.com/watch?v=S0OHd5dIjJk)  
+> UPDATE: 04/14. Due to a YouTube account issue, the video is accessible [here](https://drive.google.com/file/d/1rSjWTyqoGvMyCYX5QNWVx4E82N49-IU2/view?usp=sharing) for the time being.  
+> Skip to 24:39 for the demo.
 
 ---
 
